@@ -10,3 +10,6 @@ I am Ashen Udithamal. I am a self-taught developer and like to study anything re
 <a href="https://github.com/ashenud">
     <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashenud&theme=prussian&layout=compact&langs_count=6" />
 </a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
