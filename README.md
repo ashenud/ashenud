@@ -5,10 +5,10 @@
 I am Ashen Udithamal. I am a self-taught developer and like to study anything related to programming. Currently I am interested on @laravel and I am actively looking for a job on laravel.
 
 <a href="https://github.com/ashenud">
-    <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=ashenud&show_icons=true&theme=prussian&line_height=27" alt="Pawan's github stats"/>
+    <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=ashenud&show_icons=true&theme=nord&line_height=27" alt="Pawan's github stats"/>
 </a>
 <a href="https://github.com/ashenud">
-    <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashenud&theme=prussian&layout=compact&langs_count=6" />
+    <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashenud&theme=nord&layout=compact&langs_count=6" />
 </a>
 
 <!--START_SECTION:waka-->
