@@ -12,7 +12,78 @@ I am Ashen Udithamal. I am a self-taught developer and like to study anything re
 </a>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 284 Contributions in the Year 2021
+ > 
+> 📦 239.2 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 20 Public Repositories 
+ > 
+> 🔑 8 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
 ```text
-No Activity tracked this Week
+🌞 Morning    22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.53% 
+🌆 Daytime    104 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+🌃 Evening    243 commits    █████████░░░░░░░░░░░░░░░░   38.94% 
+🌙 Night      255 commits    ██████████░░░░░░░░░░░░░░░   40.87%
+
 ```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.26% 
+Tuesday      63 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.1% 
+Wednesday    68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.9% 
+Thursday     71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.38% 
+Friday       79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.66% 
+Saturday     95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.22% 
+Sunday       159 commits    ██████░░░░░░░░░░░░░░░░░░░   25.48%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Colombo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in PHP** 
+
+```text
+PHP                      13 repos            ████████████░░░░░░░░░░░░░   48.15% 
+JavaScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+CSS                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
+Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.7%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/ashenud/ashenud/master/charts/bar_graph.png) 
+
+
+ Last Updated on 31/10/2021
 <!--END_SECTION:waka-->
