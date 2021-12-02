@@ -11,6 +11,11 @@ I am Ashen Udithamal. I am a self-taught developer and like to study anything re
     <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashenud&theme=nord&layout=compact&langs_count=6" />
 </a>
 
+[![Linkedin: ashenud](https://img.shields.io/badge/-ashenud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashenud/)](https://www.linkedin.com/in/ashenud/)
+[![GitHub: ashenud](https://img.shields.io/github/followers/ashenud?label=follow&style=social)](https://github.com/ashenud)
+[![GitHub: ashenud](https://img.shields.io/github/stars/ashenud?label=stars&style=social)](https://github.com/ashenud)
+[![website](https://img.shields.io/badge/PortfolioWebsite-ashenud.live-2648ff?style=flat-square&logo=google-chrome)](https://ashenud.live/)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2051%20mins-blue)
 
