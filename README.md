@@ -17,7 +17,7 @@ I am Ashen Udithamal. I am a self-taught developer and like to study anything re
 <!-- [![website](https://img.shields.io/badge/PortfolioWebsite-ashenud.live-2648ff?style=flat-square&logo=google-chrome)](https://ashenud.live/) -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 **I'm a Night 🦉** 
 
@@ -75,5 +75,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/02/2022 18:43:56 UTC
+ Last Updated on 08/02/2022 18:42:02 UTC
 <!--END_SECTION:waka-->
