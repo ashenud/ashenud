@@ -19,7 +19,7 @@ I am Ashen Udithamal. I am a self-taught developer and like to study anything re
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm a Night 🦉** 
 
@@ -50,14 +50,14 @@ Sunday       212 commits    ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-PHP                      4 hrs 58 mins       ███████████████████████░░   95.14% 
-Text                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.86%
+PHP                      4 hrs 50 mins       ███████████████████████░░   95.01% 
+Text                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.99%
 
 🔥 Editors: 
-VS Code                  5 hrs 13 mins       █████████████████████████   100.0%
+VS Code                  5 hrs 5 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  5 hrs 13 mins       █████████████████████████   100.0%
+Windows                  5 hrs 5 mins        █████████████████████████   100.0%
 
 ```
 
@@ -74,5 +74,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/05/2022 18:49:46 UTC
+ Last Updated on 10/05/2022 18:50:48 UTC
 <!--END_SECTION:waka-->
